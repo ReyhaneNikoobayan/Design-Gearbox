@@ -1,2 +1,2 @@
 # Designing Gearbob
-The final project of the course Fundamentals of Automatic Controller Design, defined by Professor Aria Alasti at Sharif University of Technology And it was carried out by me and my teammate Mohammad Javad Shamseddin Saeed
+The complete design of the gearbox has been accomplished in different phases throughout the semester in the machine element design 2 course, under the supervision of Dr. Nourani. This project was carried out by my teammate, Iman Shahravi, and me.
